@@ -33,7 +33,66 @@ Para instalar o aplicativo permanentemente em um dispositivo Android ou distribu
     *   **Via QR Code:** Se você escolheu a opção de QR code, escaneie-o com seu dispositivo Android para baixar o APK. Você pode precisar permitir a instalação de aplicativos de fontes desconhecidas nas configurações de segurança do seu dispositivo.
     *   **Via Transferência Direta:** Se você baixou o APK para o seu computador, transfira-o para o seu dispositivo Android (via cabo USB, e-mail, Google Drive, etc.). Localize o arquivo APK no seu dispositivo e toque nele para instalar. Novamente, você pode precisar permitir a instalação de aplicativos de fontes desconhecidas.
     *   
-![4](https://github.com/user-attachments/assets/de873dff-70e3-4efa-848f-095e79541f31)
+
+
+## Telas de início
+
+
+![START](https://github.com/user-attachments/assets/27e849f5-54a9-476a-83bd-52e53dbea102)
+
+## Questão 1
+
+![1](https://github.com/user-attachments/assets/76779522-347e-4fc2-bd77-edcaf53c1829)
+
+##Questão 2
+
+![2](https://github.com/user-attachments/assets/fec3ddc0-9633-4b76-b85a-37509dc4b8cc)
+
+Questão 3
+
+![3](https://github.com/user-attachments/assets/452376c6-0a06-498c-953c-ba4cadd2fcb8)
+
+Questão 4
+
+![4](https://github.com/user-attachments/assets/d8990e66-39f7-4ec7-902f-182384a30bcb)
+
+##Questão 5
+
+![5](https://github.com/user-attachments/assets/487b91a6-6767-486e-a4cf-f135064d9be4)
+
+##Questão 6
+
+![6](https://github.com/user-attachments/assets/0730b44a-8b28-47dd-934e-2ec26b88a60a)
+
+##Questão 7
+
+![7](https://github.com/user-attachments/assets/fa6707da-7974-4d78-9370-67f6c22cff74)
+
+##Questão 8
+
+![8](https://github.com/user-attachments/assets/77c20cfa-5d4d-40ee-b0ed-db3b953ccf66)
+
+##Questão 9
+
+![9](https://github.com/user-attachments/assets/e98d9bec-5b83-4f62-81d9-fabcd441bb99)
+
+##Questão 10
+
+![10](https://github.com/user-attachments/assets/31543ab6-d595-4ae4-bf05-0f1efe771961)
+
+##Tela final
+
+![finish](https://github.com/user-attachments/assets/c28f8701-2fdb-466e-a0d9-f9cc1d18ec1c)
+
+
+
+
+
+
+
+
+
+
 
 
 
