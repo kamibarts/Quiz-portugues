@@ -8,7 +8,7 @@ O aplicativo é composto pelas seguintes telas principais:
 
 *   **Tela Inicial:** Apresenta o título "Quiz- Português" e um botão "Start" para iniciar o quiz.
 *   **Telas de Questões:** Uma sequência de telas, cada uma contendo uma pergunta de português e opções de resposta. O usuário seleciona uma opção para prosseguir para a próxima questão.
-*   **Tela Final:** Exibe uma mensagem de conclusão ("parabens!!!") e um botão "RECOMECE" para reiniciar o quiz.
+*   **Tela Final:** Exibe uma mensagem de conclusão ("parabens!!!"), soma os pontos das perguntas corretas e é mostrada no final, e um botão "RECOMECE" para reiniciar o quiz.
 
 ## Como Executar o Aplicativo
 
