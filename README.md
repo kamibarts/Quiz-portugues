@@ -32,12 +32,8 @@ Para instalar o aplicativo permanentemente em um dispositivo Android ou distribu
 3.  **Transfira e Instale:**
     *   **Via QR Code:** Se você escolheu a opção de QR code, escaneie-o com seu dispositivo Android para baixar o APK. Você pode precisar permitir a instalação de aplicativos de fontes desconhecidas nas configurações de segurança do seu dispositivo.
     *   **Via Transferência Direta:** Se você baixou o APK para o seu computador, transfira-o para o seu dispositivo Android (via cabo USB, e-mail, Google Drive, etc.). Localize o arquivo APK no seu dispositivo e toque nele para instalar. Novamente, você pode precisar permitir a instalação de aplicativos de fontes desconhecidas.
+    *   
+![4](https://github.com/user-attachments/assets/de873dff-70e3-4efa-848f-095e79541f31)
 
-## Contribuição
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório, fazer suas alterações e enviar um pull request. Para relatar problemas ou sugerir melhorias, por favor, abra uma issue.
-
-## Licença
-
-Este projeto está licenciado sob a [Nome da Licença, se houver].
 
